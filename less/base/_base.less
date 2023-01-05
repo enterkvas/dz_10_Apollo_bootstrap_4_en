@@ -1,0 +1,49 @@
+body {
+  font-family: Noto Sans;
+  box-sizing: border-box;
+}
+
+.block {
+  background-color: #ffdb4c;
+  padding: 20px;
+  color: #000;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.text-center {
+  text-align: center;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.137px;
+  color: #777;
+  margin-top: 15px;
+  margin-bottom: 22px;
+
+  @media (min-width: 1200px) {
+    letter-spacing: 0.08px;
+  }
+}
+
+.line {
+  border-bottom: 1px solid #cad8e3;
+}
+
+.d-md-none {
+  @media (min-width: 768px) {
+    display: none;
+  }
+}
+
+.d-xl-none {
+  @media (max-width: 767px) {
+    display: none;
+  }
+}
