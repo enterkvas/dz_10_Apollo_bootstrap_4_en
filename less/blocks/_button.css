@@ -1,0 +1,28 @@
+.button {
+  background-color: #252525;
+  box-shadow: 0px 8px 16px 0px rgba(171, 171, 171, 0.4);
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 1;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 25px;
+  padding-top: 12px;
+  padding-bottom: 11px;
+  padding-left: 42px;
+  padding-right: 42px;
+  cursor: pointer;
+}
+.button:hover,
+.button:active,
+.button:focus {
+  background-color: #ffc80a;
+  box-shadow: 0px 8px 16px 0px rgba(233, 222, 185, 0.4);
+}
+.button--orange {
+  background-color: #ffc80a;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+/*# sourceMappingURL=./_button.css.map */

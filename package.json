@@ -1,0 +1,22 @@
+{
+  "name": "dz_10_apollo_bootstrap_4_en",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterkvas/dz_10_Apollo_bootstrap_4_en.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enterkvas/dz_10_Apollo_bootstrap_4_en/issues"
+  },
+  "homepage": "https://github.com/enterkvas/dz_10_Apollo_bootstrap_4_en#readme",
+  "devDependencies": {
+    "less": "^4.1.3"
+  }
+}
